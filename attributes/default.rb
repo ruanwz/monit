@@ -23,7 +23,7 @@ default["monit"]["mailserver"]["password_suffix"] = nil
 default["monit"]["mailserver"]["encryption"] = nil
 default["monit"]["mailserver"]["timeout"] = 60
 
-default["monit"]["port"] = 3737
+default["monit"]["port"] = 2812
 default["monit"]["address"] = nil
 default["monit"]["ssl"] = false
 default["monit"]["cert"] = "/etc/monit/monit.pem"
